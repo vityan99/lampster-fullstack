@@ -17,7 +17,6 @@ Lampster - это full-stack проект интернет-магазина, с�
 - [Уведомления телеграм-бота](#уведомления-телеграм-бота)
 - [Технологии](#технологии)
 - [Использование](#использование)
-- [Для каких целей разработан данный проект?](#для-каких-целей-разработан-данный-проект?)
 - [Команда проекта](#команда-проекта)
 
 ## Возможности клиентской части
@@ -55,12 +54,12 @@ Lampster - это full-stack проект интернет-магазина, с�
 
 ## Вид CRM-панели
 
-![lampster admin-preview-1](https://github.com/vityan99/lampster/blob/main/preview/admin/admin-preview-1.png)
-![lampster admin-preview-2](https://github.com/vityan99/lampster/blob/main/preview/admin/admin-preview-2.png)
-![lampster admin-preview-3](https://github.com/vityan99/lampster/blob/main/preview/admin/admin-preview-3.png)
-![lampster admin-preview-4](https://github.com/vityan99/lampster/blob/main/preview/admin/admin-preview-4.png)
-![lampster admin-preview-5](https://github.com/vityan99/lampster/blob/main/preview/admin/admin-preview-5.png)
-![lampster admin-preview-6](https://github.com/vityan99/lampster/blob/main/preview/admin/admin-preview-6.png)
+![lampster admin-preview-1](https://github.com/vityan99/lampster-fullstack/blob/main/preview/admin/admin-preview-1.png)
+![lampster admin-preview-2](https://github.com/vityan99/lampster-fullstack/blob/main/preview/admin/admin-preview-2.png)
+![lampster admin-preview-3](https://github.com/vityan99/lampster-fullstack/blob/main/preview/admin/admin-preview-3.png)
+![lampster admin-preview-4](https://github.com/vityan99/lampster-fullstack/blob/main/preview/admin/admin-preview-4.png)
+![lampster admin-preview-5](https://github.com/vityan99/lampster-fullstack/blob/main/preview/admin/admin-preview-5.png)
+![lampster admin-preview-6](https://github.com/vityan99/lampster-fullstack/blob/main/preview/admin/admin-preview-6.png)
 
 ## Возможности серверной части
 
@@ -73,15 +72,15 @@ Lampster - это full-stack проект интернет-магазина, с�
 
 ## Карта серверных компонентов
 
-![lampster component-instruction-server](https://github.com/vityan99/lampster/blob/main/preview/server/server-components.jpg)
+![lampster component-instruction-server](https://github.com/vityan99/lampster-fullstack/blob/main/preview/server/server-components.jpg)
 
 ## Структура базы данных
 
-![lampster db-structure](https://github.com/vityan99/lampster/blob/main/preview/database/db-structure.jpg)
+![lampster db-structure](https://github.com/vityan99/lampster-fullstack/blob/main/preview/database/db-structure.jpg)
 
 ## Уведомления телеграм-бота
 
-![telegram-bot-notifications](https://github.com/vityan99/lampster/blob/main/preview/telegram/telegram-bot-preview.png)
+![telegram-bot-notifications](https://github.com/vityan99/lampster-fullstack/blob/main/preview/telegram/telegram-bot-preview.png)
 
 ## Технологии
 
@@ -110,10 +109,6 @@ Lampster - это full-stack проект интернет-магазина, с�
 - Клиентская часть будет доступна по адресу: `http://localhost:3000/`
 - Административная часть будет доступна по адресу: `http://localhost:3000/admin`
 - Для остановки проекта Вам необходимо использовать сочетание клавиш: `CTRL + C` или `CONTROL + C`
-
-## Для каких целей разработан данный проект?
-
-Данный проект разрабатывался с целью оттачивания знаний по изученным технологиям.
 
 ## Команда проекта
 
